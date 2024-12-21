@@ -1,6 +1,10 @@
 export const routes = {
     User: {
         HOME: '/',
-        CATEGORY: '/category'
-    }
+        CATEGORY: '/category',
+    },
+    AUTHENTIC: {
+        LOGIN: '/login',
+        REGISTER: '/register',
+    },
 }
